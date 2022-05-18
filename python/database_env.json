@@ -1,0 +1,6 @@
+{
+    "host"      : "localhost",
+    "database"  : "irisdb",
+    "user"      : "postgres",
+    "password"  : "Passw0rd"
+}
